@@ -1,1 +1,2 @@
 matplotlib==3.4
+semver==2.13
