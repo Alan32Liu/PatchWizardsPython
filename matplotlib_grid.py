@@ -1,7 +1,7 @@
 """
 Project matplotlib
 Function Grid()
-Version 3.4 -> 3.6
+Version 3.4 -> 3.7
 """
 
 import matplotlib.pyplot as plt
