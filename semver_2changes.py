@@ -1,3 +1,9 @@
+"""
+Project semver
+function VersionInf, isvalid()
+Version 2.13 -> 3.0
+"""
+
 import semver
 
 
